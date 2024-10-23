@@ -14,7 +14,7 @@
 
 # Documentación página web
 
-El proyecto contará con un header que llevará el logo del SID (assets/logosid.png), en su menú de navegación los 6 apartados principales y un apartado para el cambio de idioma (Inglés/Español) [no estática, oculta (símbolo de menú)]:
+El proyecto contará con un header que llevará el logo del SID (![Logo SID](assets/logosid.png)), en su menú de navegación los 6 apartados principales y un apartado para el cambio de idioma (Inglés/Español) [no estática, oculta (símbolo de menú)]:
 
 - Home
 - About
